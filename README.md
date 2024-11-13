@@ -22,7 +22,7 @@ This project is a web-based implementation of the classic **Battleship** game. D
 - **Restart functionality**: Players can restart the game without refreshing the page.
 
 ## Screenshot of Project
-[Screenshot of Project](https://github.com/Obayaa/Survey_analyzer_Battleship_game/blob/main/battleship_game_web/img/battleship.png)
+![Screenshot of Battleship Game](https://github.com/Obayaa/Survey_analyzer_Battleship_game/blob/main/battleship_game_web/img/battleship.png)
 
 ## Technologies Used
 
@@ -36,7 +36,6 @@ This project is a web-based implementation of the classic **Battleship** game. D
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/peleisaac/python-project-battleship-game.git
-   cd Survey_analyzer_Battleship_game
    ```
 
 2. **Install Dependencies**:
