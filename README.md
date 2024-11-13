@@ -21,6 +21,9 @@ This project is a web-based implementation of the classic **Battleship** game. D
 - **Game-over modal**: Declares the winner when all ships of a player are sunk.
 - **Restart functionality**: Players can restart the game without refreshing the page.
 
+## Screenshot of Project
+[]()
+
 ## Technologies Used
 
 - **Python (Flask)**: Backend logic, routing, and handling game state.
@@ -32,7 +35,7 @@ This project is a web-based implementation of the classic **Battleship** game. D
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Obayaa/Survey_analyzer_Battleship_game.git
+   git clone https://github.com/peleisaac/python-project-battleship-game.git
    cd Survey_analyzer_Battleship_game
    ```
 
