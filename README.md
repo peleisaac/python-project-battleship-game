@@ -22,7 +22,7 @@ This project is a web-based implementation of the classic **Battleship** game. D
 - **Restart functionality**: Players can restart the game without refreshing the page.
 
 ## Screenshot of Project
-[]()
+[Screenshot of Project](https://github.com/Obayaa/Survey_analyzer_Battleship_game/blob/main/battleship_game_web/img/battleship.png)
 
 ## Technologies Used
 
