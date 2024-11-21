@@ -69,6 +69,7 @@ This project is a web-based implementation of the classic **Battleship** game. D
 - **app.py**: Main Flask application file to initialize and run the server.
 - **templates/**: Contains the HTML files, including the main game page.
   - `index.html`: The main interface for the game.
+- **images/**: Contains screenshots from the Game.
 - **static/**: Holds all static files.
   - **css/**: Contains `styles.css` for custom styling.
   - **js/**: Contains `game.js` for JavaScript game logic.
@@ -82,6 +83,3 @@ This project is a web-based implementation of the classic **Battleship** game. D
 - **Score Tracking**: Implement a scoreboard to keep track of wins and losses across sessions.
 - **Mobile Responsiveness**: Improve design for mobile-friendly gameplay.
 
-## License
-
-This project is licensed under the MIT License.
