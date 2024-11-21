@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>Battleship Game</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    <script src="{{ url_for('static', filename='js/game.js') }}"></script>
 </head>
 <body>
     <div class="game-container">
@@ -22,6 +21,7 @@
             </div>
         </div>
 
+        <div id="game-status" class="game-status">Waiting for move...</div>
         <div class="legend">
             <div class="legend-item">
                 <span class="legend-marker ship"></span> Your Ship
@@ -46,7 +46,8 @@
             </div>
         </div>
     </div>
-
+    
+    <script src="{{ url_for('static', filename='js/game.js') }}"></script>
     <script>
         const gridSize = {{ grid_size }};
         const playerBoard = {{ player_board | tojson }};
