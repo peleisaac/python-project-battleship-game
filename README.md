@@ -6,6 +6,7 @@ This project is a web-based implementation of the classic **Battleship** game. D
 ## Table of Contents
 
 - [Features](#features)
+- [Screehshots of Project](#screenshots-of-project)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Gameplay](#gameplay)
@@ -21,7 +22,7 @@ This project is a web-based implementation of the classic **Battleship** game. D
 - **Game-over modal**: Declares the winner when all ships of a player are sunk.
 - **Restart functionality**: Players can restart the game without refreshing the page.
 
-## Screenshot of Project
+## Screenshots of Project
 ![Screenshot of Battleship Game](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/main_screen.png)
 ![Screenshot of Battleship Game Popup](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/pop_up.png)
 ![Screenshot of Battleship Game Help Page](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/help_page.png)
