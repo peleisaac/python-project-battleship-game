@@ -24,6 +24,7 @@ This project is a web-based implementation of the classic **Battleship** game. D
 ## Screenshot of Project
 ![Screenshot of Battleship Game](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/battleship.png)
 ![Screenshot of Battleship Game Popup](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/Pop_screen.png)
+![Screenshot of Battleship Game Help Page](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/help_page.png)
 
 ## Technologies Used
 
