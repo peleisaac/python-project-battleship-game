@@ -13,7 +13,7 @@ class TestBattleshipApp(unittest.TestCase):
     
     def test_start_game(self):
         # Mock grid size
-        grid_size = 8
+        grid_size = 8 # Must be between 10 and 15 so this should raise an error
         response = self.client.post('/start_game', data={'grid_size': grid_size})
         
         # Check the response status code
