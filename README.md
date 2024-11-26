@@ -22,8 +22,8 @@ This project is a web-based implementation of the classic **Battleship** game. D
 - **Restart functionality**: Players can restart the game without refreshing the page.
 
 ## Screenshot of Project
-![Screenshot of Battleship Game](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/battleship.png)
-![Screenshot of Battleship Game Popup](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/Pop_screen.png)
+![Screenshot of Battleship Game](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/main_screen.png)
+![Screenshot of Battleship Game Popup](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/pop_up.png)
 ![Screenshot of Battleship Game Help Page](https://github.com/peleisaac/python-project-battleship-game/blob/main/images/help_page.png)
 
 ## Technologies Used
