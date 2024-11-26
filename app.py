@@ -9,7 +9,11 @@ app.secret_key = 'battleship_dev_key_2024'  # Required for session management
 def index():
     return render_template('index.html')
 
-@app.route('/start_game', methods=['POST'])
+@app.route('/help')
+def help_page():
+    return render_template('help.html')
+
+@app.route('/start_game', methods=['POST', 'GET'])
 def start_game():
     # Create a new game instance
     game = BattleshipGame()
