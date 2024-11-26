@@ -249,6 +249,31 @@ form {
     background-color: #7f8c8d;
 }
 
+/* Help Page Styles */
+.help-link-container{
+    justify-content: right;
+    display: flex;
+}
+.help-link-container a{
+    text-decoration: none;
+}
+.help-container {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+ 
+.help-title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+ 
+.section {
+    margin-bottom: 20px;
+}
+
 /* Responsive Design */
 @media (max-width: 900px) {
     .boards-container {
