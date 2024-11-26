@@ -67,8 +67,12 @@ This project is a web-based implementation of the classic **Battleship** game. D
 ## File Structure
 
 - **app.py**: Main Flask application file to initialize and run the server.
+- **battleship_logic.py**: This file handles all the logic for the game.
+- **requirement.txt**: This file contains all the dependancies used in the game.
 - **templates/**: Contains the HTML files, including the main game page.
-  - `index.html`: The main interface for the game.
+  - `index.html`: The interface that contains the pop up to start the game as well as select the grid size for the game.
+  - `game.html`: The main interface for the game.
+  - `help.html`: The interface that explains the rules of the game.
 - **images/**: Contains screenshots from the Game.
 - **static/**: Holds all static files.
   - **css/**: Contains `styles.css` for custom styling.
